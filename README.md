@@ -5,7 +5,7 @@
 <a href="mailto:VishalGupta24it@gmail.com"><img src="https://img.shields.io/badge/Email-Vishal-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vishal-gupta-150b66207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Vishal-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://linktr.ee/vishal_009" target="_blank"><img src="https://img.shields.io/badge/LinkTree Vishal Gupta-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Twitch Streaming Android App
-Curretnly Working on the project for the android project. start working on some new feature
+Currently Working on the project for the android project. start working on some new feature
 
 # Decathlon Application
 
